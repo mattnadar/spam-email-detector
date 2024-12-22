@@ -1,0 +1,10 @@
+Subject: Meeting Reminder for Project Discussion
+Body:
+Hi Team,
+
+This is a reminder about tomorrow's project discussion meeting at 10:00 AM in Conference Room B. Please come prepared with your updates on the deliverables and any challenges you’ve faced.
+
+Let me know if there’s anything specific you’d like to add to the agenda.
+
+Best,
+Sarah
